@@ -61,6 +61,10 @@ form {
   font-style: italic;
 }
 
+.recipe strong {
+  color: #db67db;
+}
+
 footer {
   text-align: center;
   font-size: 13px;
